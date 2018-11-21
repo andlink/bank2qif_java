@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: net.andlink.panels
+OpenIDE-Module-Layer: net/andlink/panels/layer.xml
+OpenIDE-Module-Localizing-Bundle: net/andlink/panels/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
+
